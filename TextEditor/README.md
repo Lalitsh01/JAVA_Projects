@@ -80,7 +80,7 @@ The `actionPerformed` method handles actions triggered by the menu items:
 Contributions are welcome! If you would like to contribute, please fork the repository and submit a pull request with your changes. Any enhancements or bug fixes are appreciated.
 
 
-## CODE PREVIEW
+## DEMO
 ![GIF](https://github.com/Lalitsh01/JAVA_Projects/assets/106839375/66d23fbe-c86b-4b29-ab84-4681c91faea1)
 
 
